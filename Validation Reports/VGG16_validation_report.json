@@ -1,0 +1,10 @@
+{
+    "True Positives": 1,
+    "True Negatives": 22384,
+    "Flase Positives": 56,
+    "False Negatives": 679,
+    "Accuracy": 0.9682093425605537,
+    "Precision": 0.017543859649122806,
+    "Recall": 0.0014705882352941176,
+    "F1_Score": 0.0027137042062415195
+}
