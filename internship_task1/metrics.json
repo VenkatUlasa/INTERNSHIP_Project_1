@@ -1,1 +1,3 @@
-{"VGG16": 0.96, "ResNet50": 0.97, "CustomModel": 0.97}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e64bd9fa27ad259c99ec8bfa94bef8a169a2b42926b32d60f62b418916102bb
+size 54
