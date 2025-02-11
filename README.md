@@ -92,25 +92,13 @@ We train three different deep learning models and evaluate their performance:
 
 ---
 
-## 📦 Submission Deliverables
-- **Trained Deep Learning Models:**
-  - `intern_task_CustomModel.ipynb`
-  - `intern_task_VGG16.ipynb`
-  - `intern_task_ResNET.ipynb`
-- **Validation Reports:**
-  - `CustomModel_validation_report.json`
-  - `VGG16_validation_report.json`
-  - `ResNet_validation_report.json`
-- **JSON File:** `Food_data.json` (Nutritional data for all 34 classes).
-- **Flask Web Application:** User-friendly prediction system.
-- **GitHub Repository:** Well-structured project with `README.md`.
-- **Documentation & PPT.**
-
----
-
 ## 💻 Installation & Usage
 ### 🔧 **Installation**
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/Food-Classification-CNN.git
    cd Food-Classification-CNN
+
+
+## 📞 Contact Me
+📧 Email: josh8008venkat139@gmail.com
